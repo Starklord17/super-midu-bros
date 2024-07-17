@@ -38,7 +38,8 @@ function preload () {
 
   this.load.spritesheet(
     'mario', // <--- id
-    'assets/entities/mario.png',
+    // 'assets/entities/mario.png',
+    'assets/entities/super-midu-bros.png',
     { frameWidth: 18, frameHeight: 16 }
   )
 
